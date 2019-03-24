@@ -5,3 +5,7 @@ dni char(8)
 
 telefonos char(7)
 
+direccion  tercer cambio
+Tercer cambio
+
+
